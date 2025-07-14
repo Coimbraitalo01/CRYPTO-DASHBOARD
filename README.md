@@ -2,7 +2,7 @@
 
 Aplicação web desenvolvida com **React + TailwindCSS + Vite** que exibe informações em tempo real de criptomoedas, maiores altas do dia, gráficos de preços e um conversor de moedas.
 
-![Preview](./preview.png)
+![Preview](https://raw.githubusercontent.com/Coimbraitalo01/CRYPTO-DASHBOARD/main/public/Preview.png)
 
 ## 🔍 Funcionalidades
 
@@ -23,7 +23,7 @@ Aplicação web desenvolvida com **React + TailwindCSS + Vite** que exibe inform
 ## 📦 Instalação
 
 ```bash
-git clone https://github.com/seu-usuario/crypto-dashboard.git
-cd crypto-dashboard
+git clone https://github.com/Coimbraitalo01/CRYPTO-DASHBOARD.git
+cd CRYPTO-DASHBOARD
 npm install
 npm run dev
