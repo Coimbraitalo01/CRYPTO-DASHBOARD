@@ -3,14 +3,9 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
+  base: '/CRYPTO-DASHBOARD/', 
   server: {
-    host: true,
-    watch: {
-      usePolling: true  // Adicione esta linha para melhorar o hot-reload
-    }
-  },
-  build: {
-    outDir: 'dist',
-    emptyOutDir: true
+    port: 5173,
+    open: true
   }
 })
